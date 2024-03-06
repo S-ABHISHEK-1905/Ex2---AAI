@@ -77,7 +77,8 @@ print(res2)
 ```
 
 ## Output :
-![](./o.png)
+![image](https://github.com/S-ABHISHEK-1905/Ex2---AAI/assets/66360846/87e872ae-9a63-4b1a-8141-bb1172a07c2e)
+
 
 ## Result :
 Thus, Bayesian Inference was successfully determined using Variable Elimination Method.
